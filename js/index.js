@@ -1,5 +1,5 @@
 var criarAplicativo = function(){
-
+	mudarCorDoTexto('hello-world','pink');
 
 	desenharCalendario();
 	
