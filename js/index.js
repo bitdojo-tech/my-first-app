@@ -17,7 +17,7 @@ var criarAplicativo = function(){
 
 
 
-
+	corDeFundoPrincipal('light-blue');
     
 }
 
