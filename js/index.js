@@ -35,6 +35,7 @@ var desenharCadeado = function(){
 
 var desenharBarraDeBusca = function(){
 	desenharElemento('search-bar');
+	inverterIcone('searhc-bar');
 }
 
 
