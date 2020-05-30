@@ -39,7 +39,7 @@ var desenharBarraDeBusca = function(){
 
 
 var desenharSubtitiulo = function(){
-    
+    desenharElemento('subtitulo');
 }
 
 var desenharUnisanta = function(){
