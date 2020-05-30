@@ -30,7 +30,7 @@ var desenharCalendario = function(){
 }
 
 var desenharCadeado = function(){
-
+	desenharElemento('locker');
 }
 
 var desenharBarraDeBusca = function(){
