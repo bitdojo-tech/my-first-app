@@ -11,7 +11,7 @@ var criarAplicativo = function(){
 
 	desenharUnisanta();
 
-
+	reorganizarIcones();
 
 
 
