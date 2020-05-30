@@ -1,5 +1,5 @@
 var criarAplicativo = function(){
-
+	mudarCorDoTexto('hello-world','pink');
 
 	desenharCalendario();
 	
@@ -34,7 +34,7 @@ var desenharCadeado = function(){
 }
 
 var desenharBarraDeBusca = function(){
-
+	desenharElemento('search-bar');
 }
 
 
