@@ -26,7 +26,7 @@ var corDeFundo = function(){
 }
 
 var desenharCalendario = function(){
-    
+    desenharElemento('calendar');
 }
 
 var desenharCadeado = function(){
